@@ -1,0 +1,36 @@
+.wrapper {
+  background-color : purple;
+  width: 40%;
+  border-radius: 10px;
+}
+
+.header_title {
+  color: white;
+  padding: 12px 12px;
+}
+.label {
+  color : white;
+  margin-right: 8px;
+  
+}
+.input {
+  margin-bottom: 8px;
+  border-radius: 2px;
+}
+
+.button {
+  border: 2px solid white;
+  border-radius: 3px ;
+  padding: 5px;
+  color: white;
+}
+
+.button:hover {
+  background-color: chartreuse;
+  color: blue;
+  margin-bottom: 8px;
+}
+.valida {
+  background-color: black;
+  color: white;
+}
